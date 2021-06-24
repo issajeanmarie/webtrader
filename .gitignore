@@ -27,7 +27,9 @@ screenshots
 reports
 selenium-debug.log
 test-config.js
-.vscode/launch.json
 
 .circleci
 Dockerfile
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
